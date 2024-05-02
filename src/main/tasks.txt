@@ -1,0 +1,2 @@
+product entity oluşturulacak.
+productName, productCategory, productPrice, productUnitInStock, productDescription
